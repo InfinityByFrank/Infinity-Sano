@@ -105,4 +105,4 @@ This repository contains **documentation only**; the source code is private. Hap
 
 ## 📬 Contact
 
-**Infinity dev by Frank** · [GitHub](https://github.com/TheGeistGamer) · [Infinity](https://infinitydev.agency)
+**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency)

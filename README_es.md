@@ -105,4 +105,4 @@ Este repositorio contiene **solo documentación**; el código fuente es privado.
 
 ## 📬 Contacto
 
-**Infinity dev by Frank** · [GitHub](https://github.com/TheGeistGamer) · [Infinity](https://infinitydev.agency)
+**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency)
